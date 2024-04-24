@@ -1,0 +1,31 @@
+DataSet:
+-------------------------------------
+We have One data sets: Orders . 
+The orders data set contains the following columns:
+
+- order_datetime - time of the order
+- origin_longitude - longitude of the order
+- origin_latitude - latitude of the order
+- m_order_eta - time before order arrival
+- order_gk - order number
+- order_status_key - Consisting of the following mapping:
+4 - cancelled by client,
+9 - cancelled by system, i.e., a reject
+- is_driver_assigned_key - whether a driver has been assigned
+- cancellation_time_in_seconds - how many seconds passed before cancellation
+
+DataBase:
+Create database getonlinedata;
+Use getonlinedata;
+
+Table Schema:
+CREATE TABLE orders (
+    order_gk BIGINT PRIMARY KEY,
+    order_datetime TIME,
+    origin_longitude DECIMAL(10,6),
+    origin_latitude DECIMAL(10,6),
+    m_order_eta INT,
+    order_status_key INT,
+    is_driver_assigned_key INT,
+    cancellations_time_in_seconds INT
+);
