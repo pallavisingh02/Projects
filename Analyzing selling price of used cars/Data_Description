@@ -1,0 +1,53 @@
+Here's a brief description of each column:
+
+1.Risksymboling: Represents the risk rating of the car.
+
+2.Insurance_claims: Indicates whether the car has insurance claims.
+
+3.Manufacturer: The manufacturer or brand of the car.
+
+4.Fuel_type: The type of fuel used by the car (e.g., gas, diesel).
+
+5.Aspiration: Indicates whether the car has a turbocharger or not.
+
+6.Num_of_doors: Number of doors in the car.
+
+7.Body_style: The body style of the car (e.g., sedan, hatchback).
+
+8.Drive_wheels: The type of drive wheels (e.g., front-wheel drive, rear-wheel drive).
+
+9.Engine_location: Location of the car's engine (e.g., front, rear).
+
+10.Wheel_base: The distance between the centers of the front and rear wheels.
+
+11.Car_Length: Length of the car.
+
+12.Car_Width: Width of the car.
+
+13.Car_Height: Height of the car.
+
+14.Curb_weight: The weight of the car without occupants or baggage.
+
+15.Engine_type: Type of engine (e.g., ohc, ohcf).
+
+16.Num_of_cylinders: Number of cylinders in the engine.
+
+17.Engine_size: Size of the car's engine.
+
+18.Fuel_system: The type of fuel system used in the car.
+
+19.Bore: Diameter of the cylinder in the engine.
+
+20.Stroke: Length of the stroke in the engine.
+
+21.Compression_ratio: Compression ratio of the engine.
+
+22.Horsepower: Horsepower of the car.
+
+23.Peak_rpm: The peak revolutions per minute of the car's engine.
+
+24.City_mpg: Miles per gallon (mpg) in the city.
+
+25.Highway_mpg: Miles per gallon (mpg) on the highway.
+
+26.Price: Selling price of the car.
