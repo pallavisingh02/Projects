@@ -10,7 +10,7 @@ This repository serves as a comprehensive portfolio of data analysis projects un
 ## Projects
 
 ### Analyzing selling price of used cars using Python
-[Project Link](https://github.com/pallavisingh02/Projects/tree/main/Analyzing%20selling%20price%20of%20used%20cars) - Python,ANOVA,Reg
+[Project Link](https://github.com/pallavisingh02/Projects/tree/main/Analyzing_selling_price_of_used_cars) - Python,ANOVA,Reg
 
 -  Conducted a comprehensive analysis of used car selling prices using Python. This project involved cleaning and preparing the dataset, exploring relationships between various car features like engine size, horsepower, and fuel type with selling prices, and identifying significant factors influencing prices such as manufacturer, body style, and drive wheels. Through descriptive statistics, visualizations, and advanced analytics techniques like regression and ANOVA, I uncovered valuable insights for stakeholders in the automotive industry.
 
